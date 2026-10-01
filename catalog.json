@@ -1,0 +1,2028 @@
+[
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0110365",
+        "plex": {
+          "guid": "5d7768850ab244002006f66a",
+          "slug": "little-odessa"
+        },
+        "slug": "little-odessa-1994",
+        "tmdb": 47504,
+        "trakt": 32796
+      },
+      "year": 1994,
+      "title": "Little Odessa"
+    },
+    "rank": 97,
+    "id": 1535611541,
+    "listed_at": "2026-08-20T19:01:01.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0108358",
+        "plex": {
+          "guid": "5d7768385af944001f1faa39",
+          "slug": "tombstone"
+        },
+        "slug": "tombstone-1993",
+        "tmdb": 11969,
+        "trakt": 6982
+      },
+      "year": 1993,
+      "title": "Tombstone"
+    },
+    "rank": 95,
+    "id": 1532050821,
+    "listed_at": "2026-08-09T14:04:50.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt30827810",
+        "plex": {
+          "guid": "65a0ae00c73247070667a539",
+          "slug": "i-love-boosters"
+        },
+        "slug": "i-love-boosters-2026",
+        "tmdb": 1227877,
+        "trakt": 992486
+      },
+      "year": 2026,
+      "title": "I Love Boosters"
+    },
+    "rank": 95,
+    "id": 1529680756,
+    "listed_at": "2026-08-01T14:53:02.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt6019206",
+        "plex": {
+          "guid": "5d776c6e96b655001fe3071d",
+          "slug": "kill-bill-the-whole-bloody-affair"
+        },
+        "slug": "kill-bill-the-whole-bloody-affair-2011",
+        "tmdb": 414419,
+        "trakt": 259317
+      },
+      "year": 2011,
+      "title": "Kill Bill: The Whole Bloody Affair"
+    },
+    "rank": 97,
+    "id": 1524680506,
+    "listed_at": "2026-07-22T20:27:45.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0445336",
+        "plex": {
+          "guid": "5d776cfdad5437001f7ca215",
+          "slug": "you-the-living"
+        },
+        "slug": "you-the-living-2007",
+        "tmdb": 5817,
+        "trakt": 3304
+      },
+      "year": 2007,
+      "title": "You, the Living"
+    },
+    "rank": 97,
+    "id": 1515889624,
+    "listed_at": "2026-07-13T18:47:51.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0116905",
+        "plex": {
+          "guid": "5d776852880197001ec9879d",
+          "slug": "lone-star"
+        },
+        "slug": "lone-star-1996",
+        "tmdb": 26748,
+        "trakt": 16311
+      },
+      "year": 1996,
+      "title": "Lone Star"
+    },
+    "rank": 95,
+    "id": 1513653426,
+    "listed_at": "2026-07-12T15:00:54.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0094961",
+        "plex": {
+          "guid": "5d9f3dc39dd5f4001e84ebe4",
+          "slug": "dead-heat-1988"
+        },
+        "slug": "dead-heat-1988",
+        "tmdb": 40095,
+        "trakt": 26239
+      },
+      "year": 1988,
+      "title": "Dead Heat"
+    },
+    "rank": 94,
+    "id": 1513651970,
+    "listed_at": "2026-07-12T15:00:31.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt21867434",
+        "plex": {
+          "guid": "6309f715039fb88ac14e0a1a",
+          "slug": "blackberry-2023"
+        },
+        "slug": "blackberry-2023",
+        "tmdb": 1016084,
+        "trakt": 816763
+      },
+      "year": 2023,
+      "title": "BlackBerry"
+    },
+    "rank": 95,
+    "id": 1477598287,
+    "listed_at": "2026-06-09T18:59:31.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt3776826",
+        "plex": {
+          "guid": "5d776c09fb0d55001f57ad71",
+          "slug": "operation-avalanche"
+        },
+        "slug": "operation-avalanche-2016",
+        "tmdb": 376453,
+        "trakt": 225236
+      },
+      "year": 2016,
+      "title": "Operation Avalanche"
+    },
+    "rank": 94,
+    "id": 1477598086,
+    "listed_at": "2026-06-09T18:59:02.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0099426",
+        "plex": {
+          "guid": "5d7768382ec6b5001f6bc4ab",
+          "slug": "bullet-in-the-head"
+        },
+        "slug": "bullet-in-the-head-1990",
+        "tmdb": 11909,
+        "trakt": 6927
+      },
+      "year": 1990,
+      "title": "Bullet in the Head"
+    },
+    "rank": 103,
+    "id": 1471570119,
+    "listed_at": "2026-05-28T20:48:13.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0353969",
+        "plex": {
+          "guid": "5d776836eb5d26001f1e1022",
+          "slug": "memories-of-murder"
+        },
+        "slug": "memories-of-murder-2003",
+        "tmdb": 11423,
+        "trakt": 6518
+      },
+      "year": 2003,
+      "title": "Memories of Murder"
+    },
+    "rank": 102,
+    "id": 1470276546,
+    "listed_at": "2026-05-25T18:27:01.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0085255",
+        "plex": {
+          "guid": "5d776830999c64001ec2e4a7",
+          "slug": "blue-thunder"
+        },
+        "slug": "blue-thunder-1983",
+        "tmdb": 6341,
+        "trakt": 3580
+      },
+      "year": 1983,
+      "title": "Blue Thunder"
+    },
+    "rank": 100,
+    "id": 1468945234,
+    "listed_at": "2026-05-21T15:10:44.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0076740",
+        "plex": {
+          "guid": "5d77686f61141d001fb1ac1d",
+          "slug": "sorcerer"
+        },
+        "slug": "sorcerer-1977",
+        "tmdb": 38985,
+        "trakt": 25269
+      },
+      "year": 1977,
+      "title": "Sorcerer"
+    },
+    "rank": 99,
+    "id": 1468945120,
+    "listed_at": "2026-05-21T15:09:30.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0078908",
+        "plex": {
+          "guid": "5d776858880197001ec998df",
+          "slug": "the-brood"
+        },
+        "slug": "the-brood-1979",
+        "tmdb": 28942,
+        "trakt": 18133
+      },
+      "year": 1979,
+      "title": "The Brood"
+    },
+    "rank": 98,
+    "id": 1468942502,
+    "listed_at": "2026-05-21T14:56:45.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0071249",
+        "plex": {
+          "guid": "5d776837961905001eb94a0d",
+          "slug": "bring-me-the-head-of-alfredo-garcia"
+        },
+        "slug": "bring-me-the-head-of-alfredo-garcia-1974",
+        "tmdb": 11942,
+        "trakt": 6956
+      },
+      "year": 1974,
+      "title": "Bring Me the Head of Alfredo Garcia"
+    },
+    "rank": 97,
+    "id": 1468905390,
+    "listed_at": "2026-05-21T12:03:34.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0385004",
+        "plex": {
+          "guid": "5d7768338a7581001f12d1ea",
+          "slug": "house-of-flying-daggers"
+        },
+        "slug": "house-of-flying-daggers-2004",
+        "tmdb": 9550,
+        "trakt": 4828
+      },
+      "year": 2004,
+      "title": "House of Flying Daggers"
+    },
+    "rank": 94,
+    "id": 1467450216,
+    "listed_at": "2026-05-16T16:53:17.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0091293",
+        "plex": {
+          "guid": "5d7768ab431c830024c12721",
+          "slug": "mr-vampire-ii"
+        },
+        "slug": "mr-vampire-ii-1986",
+        "tmdb": 67343,
+        "trakt": 48950
+      },
+      "year": 1986,
+      "title": "Mr. Vampire II"
+    },
+    "rank": 92,
+    "id": 1467131982,
+    "listed_at": "2026-05-15T16:19:45.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0071960",
+        "plex": {
+          "guid": "5d776852e6d55c0020410c86",
+          "slug": "the-outfit"
+        },
+        "slug": "the-outfit-1973",
+        "tmdb": 26762,
+        "trakt": 16320
+      },
+      "year": 1973,
+      "title": "The Outfit"
+    },
+    "rank": 93,
+    "id": 1465116676,
+    "listed_at": "2026-05-08T13:29:56.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0105112",
+        "plex": {
+          "guid": "5d776833e6d55c002040cbbb",
+          "slug": "patriot-games"
+        },
+        "slug": "patriot-games-1992",
+        "tmdb": 9869,
+        "trakt": 5106
+      },
+      "year": 1992,
+      "title": "Patriot Games"
+    },
+    "rank": 92,
+    "id": 1464190874,
+    "listed_at": "2026-05-04T19:25:20.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0099810",
+        "plex": {
+          "guid": "5d776829999c64001ec2d13c",
+          "slug": "the-hunt-for-red-october"
+        },
+        "slug": "the-hunt-for-red-october-1990",
+        "tmdb": 1669,
+        "trakt": 1111
+      },
+      "year": 1990,
+      "title": "The Hunt for Red October"
+    },
+    "rank": 91,
+    "id": 1462747903,
+    "listed_at": "2026-04-29T18:31:51.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt34819091",
+        "plex": {
+          "guid": "675c1db3095b998775833015",
+          "slug": "the-testament-of-ann-lee"
+        },
+        "slug": "the-testament-of-ann-lee-2025",
+        "tmdb": 1401281,
+        "trakt": 1146348
+      },
+      "year": 2025,
+      "title": "The Testament of Ann Lee"
+    },
+    "rank": 91,
+    "id": 1451193956,
+    "listed_at": "2026-03-29T17:55:20.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "show",
+    "show": {
+      "ids": {
+        "imdb": "tt0079844",
+        "plex": {
+          "guid": "5d9c0863170e24001f2aa0e3",
+          "slug": "salems-lot"
+        },
+        "slug": "salem-s-lot",
+        "tmdb": 16118,
+        "tvdb": 145061,
+        "trakt": 16048
+      },
+      "year": 1979,
+      "title": "Salem's Lot",
+      "aired_episodes": 2
+    },
+    "rank": 93,
+    "id": 1450916496,
+    "listed_at": "2026-03-28T17:58:58.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0098193",
+        "plex": {
+          "guid": "5d9f352cdfd12800208a08b2",
+          "slug": "the-return-of-swamp-thing"
+        },
+        "slug": "the-return-of-swamp-thing-1989",
+        "tmdb": 19142,
+        "trakt": 11791
+      },
+      "year": 1989,
+      "title": "The Return of Swamp Thing"
+    },
+    "rank": 92,
+    "id": 1450915185,
+    "listed_at": "2026-03-28T17:54:15.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0086979",
+        "plex": {
+          "guid": "5d776836103a2d001f568107",
+          "slug": "blood-simple"
+        },
+        "slug": "blood-simple-1985",
+        "tmdb": 11368,
+        "trakt": 6464
+      },
+      "year": 1985,
+      "title": "Blood Simple"
+    },
+    "rank": 90,
+    "id": 1450873957,
+    "listed_at": "2026-03-28T14:45:43.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0354668",
+        "plex": {
+          "guid": "5d776836eb5d26001f1e0f4d",
+          "slug": "save-the-green-planet-2003"
+        },
+        "slug": "save-the-green-planet-2003",
+        "tmdb": 11297,
+        "trakt": 6396
+      },
+      "year": 2003,
+      "title": "Save the Green Planet!"
+    },
+    "rank": 90,
+    "id": 1441609808,
+    "listed_at": "2026-03-08T16:31:44.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt32298285",
+        "plex": {
+          "guid": "663be0fb888bb00686b6b968",
+          "slug": "sirat-2025"
+        },
+        "slug": "sirat-2025",
+        "tmdb": 1151272,
+        "trakt": 927424
+      },
+      "year": 2025,
+      "title": "Sirāt"
+    },
+    "rank": 88,
+    "id": 1441127979,
+    "listed_at": "2026-03-07T14:21:37.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0094625",
+        "plex": {
+          "guid": "5d77682454c0f0001f301a42",
+          "slug": "akira"
+        },
+        "slug": "akira-1988",
+        "tmdb": 149,
+        "trakt": 115
+      },
+      "year": 1988,
+      "title": "Akira"
+    },
+    "rank": 96,
+    "id": 1432802881,
+    "listed_at": "2026-02-20T17:42:32.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0067927",
+        "plex": {
+          "guid": "5d776837961905001eb94a08",
+          "slug": "vanishing-point"
+        },
+        "slug": "vanishing-point-1971",
+        "tmdb": 11951,
+        "trakt": 6965
+      },
+      "year": 1971,
+      "title": "Vanishing Point"
+    },
+    "rank": 98,
+    "id": 1401340884,
+    "listed_at": "2026-01-03T15:33:40.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0092549",
+        "plex": {
+          "guid": "5d77689ead5437001f74b1da",
+          "slug": "miami-connection"
+        },
+        "slug": "miami-connection-1987",
+        "tmdb": 59558,
+        "trakt": 42686
+      },
+      "year": 1987,
+      "title": "Miami Connection"
+    },
+    "rank": 99,
+    "id": 1391048441,
+    "listed_at": "2025-12-18T16:11:01.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0058946",
+        "plex": {
+          "guid": "5d776840103a2d001f56a744",
+          "slug": "the-battle-of-algiers"
+        },
+        "slug": "the-battle-of-algiers-1966",
+        "tmdb": 17295,
+        "trakt": 10586
+      },
+      "year": 1966,
+      "title": "The Battle of Algiers"
+    },
+    "rank": 100,
+    "id": 1386086931,
+    "listed_at": "2025-12-11T19:02:30.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0048424",
+        "plex": {
+          "guid": "5d77682c5af944001f1f7e61",
+          "slug": "the-night-of-the-hunter"
+        },
+        "slug": "the-night-of-the-hunter-1955",
+        "tmdb": 3112,
+        "trakt": 2086
+      },
+      "year": 1955,
+      "title": "The Night of the Hunter"
+    },
+    "rank": 96,
+    "id": 1370366395,
+    "listed_at": "2025-11-21T18:48:47.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0093605",
+        "plex": {
+          "guid": "5d9f35009dd5f4001e84321b",
+          "slug": "near-dark"
+        },
+        "slug": "near-dark-1987",
+        "tmdb": 11879,
+        "trakt": 6900
+      },
+      "year": 1987,
+      "title": "Near Dark"
+    },
+    "rank": 92,
+    "id": 1347271714,
+    "listed_at": "2025-10-25T17:34:08.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0096018",
+        "plex": {
+          "guid": "5d776841103a2d001f56ac3e",
+          "slug": "running-on-empty"
+        },
+        "slug": "running-on-empty-1988",
+        "tmdb": 18197,
+        "trakt": 11131
+      },
+      "year": 1988,
+      "title": "Running on Empty"
+    },
+    "rank": 90,
+    "id": 1347267981,
+    "listed_at": "2025-10-25T17:27:54.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0212720",
+        "plex": {
+          "guid": "5d7768273c3c2a001fbcb12b",
+          "slug": "a-i-artificial-intelligence"
+        },
+        "slug": "a-i-artificial-intelligence-2001",
+        "tmdb": 644,
+        "trakt": 520
+      },
+      "year": 2001,
+      "title": "A.I. Artificial Intelligence"
+    },
+    "rank": 89,
+    "id": 1325502323,
+    "listed_at": "2025-09-27T19:23:45.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0399146",
+        "plex": {
+          "guid": "5d7768246f4521001ea988b0",
+          "slug": "a-history-of-violence"
+        },
+        "slug": "a-history-of-violence-2005",
+        "tmdb": 59,
+        "trakt": 32
+      },
+      "year": 2005,
+      "title": "A History of Violence"
+    },
+    "rank": 88,
+    "id": 1325490955,
+    "listed_at": "2025-09-27T19:06:43.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0119229",
+        "plex": {
+          "guid": "5d7768337e9a3c0020c6c45e",
+          "slug": "grosse-pointe-blank"
+        },
+        "slug": "grosse-pointe-blank-1997",
+        "tmdb": 9434,
+        "trakt": 4723
+      },
+      "year": 1997,
+      "title": "Grosse Pointe Blank"
+    },
+    "rank": 87,
+    "id": 1325426129,
+    "listed_at": "2025-09-27T17:09:31.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1706620",
+        "plex": {
+          "guid": "5d77692efb0d55001f523200",
+          "slug": "snowpiercer"
+        },
+        "slug": "snowpiercer-2013",
+        "tmdb": 110415,
+        "trakt": 77887
+      },
+      "year": 2013,
+      "title": "Snowpiercer"
+    },
+    "rank": 89,
+    "id": 1321578606,
+    "listed_at": "2025-09-22T20:42:00.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1790885",
+        "plex": {
+          "guid": "5d7768ff594b2b001e69a740",
+          "slug": "zero-dark-thirty"
+        },
+        "slug": "zero-dark-thirty-2012",
+        "tmdb": 97630,
+        "trakt": 70890
+      },
+      "year": 2012,
+      "title": "Zero Dark Thirty"
+    },
+    "rank": 87,
+    "id": 1319153874,
+    "listed_at": "2025-09-19T19:26:20.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0087884",
+        "plex": {
+          "guid": "5d77682785719b001f3a0d86",
+          "slug": "paris-texas"
+        },
+        "slug": "paris-texas-1984",
+        "tmdb": 655,
+        "trakt": 530
+      },
+      "year": 1984,
+      "title": "Paris, Texas"
+    },
+    "rank": 87,
+    "id": 1318350074,
+    "listed_at": "2025-09-18T18:08:40.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0072684",
+        "plex": {
+          "guid": "5d77682c103a2d001f5659aa",
+          "slug": "barry-lyndon"
+        },
+        "slug": "barry-lyndon-1975",
+        "tmdb": 3175,
+        "trakt": 2133
+      },
+      "year": 1975,
+      "title": "Barry Lyndon"
+    },
+    "rank": 86,
+    "id": 1318349473,
+    "listed_at": "2025-09-18T18:07:41.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0478304",
+        "plex": {
+          "guid": "5d7768327228e5001f1de17c",
+          "slug": "the-tree-of-life"
+        },
+        "slug": "the-tree-of-life-2011",
+        "tmdb": 8967,
+        "trakt": 4434
+      },
+      "year": 2011,
+      "title": "The Tree of Life"
+    },
+    "rank": 85,
+    "id": 1318348485,
+    "listed_at": "2025-09-18T18:05:59.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0469494",
+        "plex": {
+          "guid": "5d77683161141d001fb14b29",
+          "slug": "there-will-be-blood"
+        },
+        "slug": "there-will-be-blood-2007",
+        "tmdb": 7345,
+        "trakt": 3894
+      },
+      "year": 2007,
+      "title": "There Will Be Blood"
+    },
+    "rank": 90,
+    "id": 1314440809,
+    "listed_at": "2025-09-11T16:51:33.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0338564",
+        "plex": {
+          "guid": "5d9f34fb4441b1001fa0d653",
+          "slug": "infernal-affairs"
+        },
+        "slug": "infernal-affairs-2002",
+        "tmdb": 10775,
+        "trakt": 5937
+      },
+      "year": 2002,
+      "title": "Infernal Affairs"
+    },
+    "rank": 88,
+    "id": 1311808059,
+    "listed_at": "2025-09-05T14:40:24.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1527788",
+        "plex": {
+          "guid": "5d77688f431c830024c0f237",
+          "slug": "the-man-from-nowhere"
+        },
+        "slug": "the-man-from-nowhere-2010",
+        "tmdb": 51608,
+        "trakt": 36219
+      },
+      "year": 2010,
+      "title": "The Man from Nowhere"
+    },
+    "rank": 87,
+    "id": 1311807812,
+    "listed_at": "2025-09-05T14:39:08.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt4016934",
+        "plex": {
+          "guid": "5d776b1a96b655001fe0434d",
+          "slug": "the-handmaiden"
+        },
+        "slug": "the-handmaiden-2016",
+        "tmdb": 290098,
+        "trakt": 187026
+      },
+      "year": 2016,
+      "title": "The Handmaiden"
+    },
+    "rank": 86,
+    "id": 1311806600,
+    "listed_at": "2025-09-05T14:37:11.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt7282468",
+        "plex": {
+          "guid": "5d776f1af617c90020198e25",
+          "slug": "burning-2018"
+        },
+        "slug": "burning-2018",
+        "tmdb": 491584,
+        "trakt": 338552
+      },
+      "year": 2018,
+      "title": "Burning"
+    },
+    "rank": 86,
+    "id": 1311804225,
+    "listed_at": "2025-09-05T14:33:45.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1255953",
+        "plex": {
+          "guid": "5d9f358068e4c8001fb5fed6",
+          "slug": "incendies"
+        },
+        "slug": "incendies-2010",
+        "tmdb": 46738,
+        "trakt": 32118
+      },
+      "year": 2010,
+      "title": "Incendies"
+    },
+    "rank": 84,
+    "id": 1292535900,
+    "listed_at": "2025-07-31T18:35:50.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0114746",
+        "plex": {
+          "guid": "5d776d1647dd6e001f6efd1f",
+          "slug": "12-monkeys"
+        },
+        "slug": "twelve-monkeys-1995",
+        "tmdb": 63,
+        "trakt": 34
+      },
+      "year": 1995,
+      "title": "Twelve Monkeys"
+    },
+    "rank": 82,
+    "id": 1292526896,
+    "listed_at": "2025-07-31T18:22:22.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0393109",
+        "plex": {
+          "guid": "5d77683361141d001fb150f4",
+          "slug": "brick"
+        },
+        "slug": "brick-2006",
+        "tmdb": 9270,
+        "trakt": 4570
+      },
+      "year": 2006,
+      "title": "Brick"
+    },
+    "rank": 81,
+    "id": 1284038808,
+    "listed_at": "2025-07-21T18:29:40.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt6777338",
+        "plex": {
+          "guid": "5d9f3dfe9dd5f4001e84ee74",
+          "slug": "the-villainess"
+        },
+        "slug": "the-villainess-2017",
+        "tmdb": 437109,
+        "trakt": 283487
+      },
+      "year": 2017,
+      "title": "The Villainess"
+    },
+    "rank": 81,
+    "id": 1278324480,
+    "listed_at": "2025-07-14T19:00:11.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0373074",
+        "plex": {
+          "guid": "5d776d17fb0d55001f597445",
+          "slug": "kung-fu-hustle"
+        },
+        "slug": "kung-fu-hustle-2004",
+        "tmdb": 9470,
+        "trakt": 4756
+      },
+      "year": 2004,
+      "title": "Kung Fu Hustle"
+    },
+    "rank": 80,
+    "id": 1278323946,
+    "listed_at": "2025-07-14T18:57:44.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0104684",
+        "plex": {
+          "guid": "5d9f3500adeb7a0021ce0a52",
+          "slug": "hard-boiled-1992"
+        },
+        "slug": "hard-boiled-1992",
+        "tmdb": 11782,
+        "trakt": 6812
+      },
+      "year": 1992,
+      "title": "Hard Boiled"
+    },
+    "rank": 78,
+    "id": 1257659318,
+    "listed_at": "2025-06-20T11:53:06.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0101985",
+        "plex": {
+          "guid": "5d77683e2ec6b5001f6bd69a",
+          "slug": "a-brighter-summer-day"
+        },
+        "slug": "a-brighter-summer-day-1991",
+        "tmdb": 15804,
+        "trakt": 9644
+      },
+      "year": 1991,
+      "title": "A Brighter Summer Day"
+    },
+    "rank": 76,
+    "id": 1250880065,
+    "listed_at": "2025-06-12T16:37:25.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0091223",
+        "plex": {
+          "guid": "5d776d1496b655001fe3ed7b",
+          "slug": "house-1985"
+        },
+        "slug": "house-1985",
+        "tmdb": 11415,
+        "trakt": 6510
+      },
+      "year": 1985,
+      "title": "House"
+    },
+    "rank": 75,
+    "id": 1246673473,
+    "listed_at": "2025-06-07T12:20:31.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0100502",
+        "plex": {
+          "guid": "5d77682f151a60001f24c6a2",
+          "slug": "robocop-2"
+        },
+        "slug": "robocop-2-1990",
+        "tmdb": 5549,
+        "trakt": 3139
+      },
+      "year": 1990,
+      "title": "RoboCop 2"
+    },
+    "rank": 75,
+    "id": 1217442299,
+    "listed_at": "2025-04-30T18:34:31.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0083190",
+        "plex": {
+          "guid": "5d776d16ad5437001f7ccc1b",
+          "slug": "thief"
+        },
+        "slug": "thief-1981",
+        "tmdb": 11524,
+        "trakt": 6606
+      },
+      "year": 1981,
+      "title": "Thief"
+    },
+    "rank": 74,
+    "id": 1215584234,
+    "listed_at": "2025-04-26T12:18:53.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0929425",
+        "plex": {
+          "guid": "5d77683254f42c001f8c3c65",
+          "slug": "gomorrah"
+        },
+        "slug": "gomorrah-2008",
+        "tmdb": 8882,
+        "trakt": 4366
+      },
+      "year": 2008,
+      "title": "Gomorrah"
+    },
+    "rank": 72,
+    "id": 1213173734,
+    "listed_at": "2025-04-20T17:16:12.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0075029",
+        "plex": {
+          "guid": "5d7768355af944001f1fa08f",
+          "slug": "the-outlaw-josey-wales"
+        },
+        "slug": "the-outlaw-josey-wales-1976",
+        "tmdb": 10747,
+        "trakt": 5910
+      },
+      "year": 1976,
+      "title": "The Outlaw Josey Wales"
+    },
+    "rank": 71,
+    "id": 1213159927,
+    "listed_at": "2025-04-20T16:28:47.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0468492",
+        "plex": {
+          "guid": "5d776829103a2d001f564b4f",
+          "slug": "the-host-2006"
+        },
+        "slug": "the-host-2006",
+        "tmdb": 1255,
+        "trakt": 871
+      },
+      "year": 2006,
+      "title": "The Host"
+    },
+    "rank": 68,
+    "id": 1212327815,
+    "listed_at": "2025-04-18T15:21:41.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt8633464",
+        "plex": {
+          "guid": "5d7770c07a53e9001e7aa527",
+          "slug": "after-yang"
+        },
+        "slug": "after-yang-2022",
+        "tmdb": 585378,
+        "trakt": 432804
+      },
+      "year": 2022,
+      "title": "After Yang"
+    },
+    "rank": 67,
+    "id": 1212327341,
+    "listed_at": "2025-04-18T15:20:05.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt14961016",
+        "plex": {
+          "guid": "60e01c9b3c3bb7002cfc7528",
+          "slug": "im-still-here-2024-1"
+        },
+        "slug": "i-m-still-here-2024",
+        "tmdb": 1000837,
+        "trakt": 804917
+      },
+      "year": 2024,
+      "title": "I'm Still Here"
+    },
+    "rank": 66,
+    "id": 1211921659,
+    "listed_at": "2025-04-17T17:00:44.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0070518",
+        "plex": {
+          "guid": "5d9f34ffd5fd3f001ee14f5b",
+          "slug": "pat-garrett-and-billy-the-kid"
+        },
+        "slug": "pat-garrett-billy-the-kid-1973",
+        "tmdb": 11577,
+        "trakt": 6657
+      },
+      "year": 1973,
+      "title": "Pat Garrett & Billy the Kid"
+    },
+    "rank": 66,
+    "id": 1187974060,
+    "listed_at": "2025-03-07T15:00:24.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0454848",
+        "plex": {
+          "guid": "5d7768266f4521001ea98bd7",
+          "slug": "inside-man"
+        },
+        "slug": "inside-man-2006",
+        "tmdb": 388,
+        "trakt": 308
+      },
+      "year": 2006,
+      "title": "Inside Man"
+    },
+    "rank": 67,
+    "id": 1182967718,
+    "listed_at": "2025-03-01T18:17:59.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt2359024",
+        "plex": {
+          "guid": "5d776a0c7a53e9001e6f8aa9",
+          "slug": "blue-ruin"
+        },
+        "slug": "blue-ruin-2014",
+        "tmdb": 188166,
+        "trakt": 117788
+      },
+      "year": 2014,
+      "title": "Blue Ruin"
+    },
+    "rank": 66,
+    "id": 1177479466,
+    "listed_at": "2025-02-23T13:30:19.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0091763",
+        "plex": {
+          "guid": "5d7768275af944001f1f6dc6",
+          "slug": "platoon"
+        },
+        "slug": "platoon-1986",
+        "tmdb": 792,
+        "trakt": 635
+      },
+      "year": 1986,
+      "title": "Platoon"
+    },
+    "rank": 65,
+    "id": 1177472133,
+    "listed_at": "2025-02-23T13:14:38.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0496806",
+        "plex": {
+          "guid": "5d7768244de0ee001fcc7ff6",
+          "slug": "oceans-thirteen"
+        },
+        "slug": "ocean-s-thirteen-2007",
+        "tmdb": 298,
+        "trakt": 251
+      },
+      "year": 2007,
+      "title": "Ocean's Thirteen"
+    },
+    "rank": 64,
+    "id": 1177470230,
+    "listed_at": "2025-02-23T13:06:46.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0120188",
+        "plex": {
+          "guid": "5d776d1796b655001fe3f325",
+          "slug": "three-kings-1999"
+        },
+        "slug": "three-kings-1999",
+        "tmdb": 6415,
+        "trakt": 3611
+      },
+      "year": 1999,
+      "title": "Three Kings"
+    },
+    "rank": 62,
+    "id": 1176879702,
+    "listed_at": "2025-02-22T17:20:50.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0115759",
+        "plex": {
+          "guid": "5d77683285719b001f3a31de",
+          "slug": "broken-arrow"
+        },
+        "slug": "broken-arrow-1996",
+        "tmdb": 9208,
+        "trakt": 4552
+      },
+      "year": 1996,
+      "title": "Broken Arrow"
+    },
+    "rank": 61,
+    "id": 1176879577,
+    "listed_at": "2025-02-22T17:20:25.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0119217",
+        "plex": {
+          "guid": "5d776826880197001ec905d0",
+          "slug": "good-will-hunting"
+        },
+        "slug": "good-will-hunting-1997",
+        "tmdb": 489,
+        "trakt": 383
+      },
+      "year": 1997,
+      "title": "Good Will Hunting"
+    },
+    "rank": 56,
+    "id": 1176873920,
+    "listed_at": "2025-02-22T17:07:14.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0120737",
+        "plex": {
+          "guid": "5d7768248a7581001f12bc70",
+          "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring"
+        },
+        "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+        "tmdb": 120,
+        "trakt": 88
+      },
+      "year": 2001,
+      "title": "The Lord of the Rings: The Fellowship of the Ring"
+    },
+    "rank": 55,
+    "id": 1176873220,
+    "listed_at": "2025-02-22T17:05:59.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt23055660",
+        "plex": {
+          "guid": "6330a2846f748d8cd5d03b25",
+          "slug": "nickel-boys"
+        },
+        "slug": "nickel-boys-2024",
+        "tmdb": 1028196,
+        "trakt": 827056
+      },
+      "year": 2024,
+      "title": "Nickel Boys"
+    },
+    "rank": 53,
+    "id": 1174325048,
+    "listed_at": "2025-02-16T19:22:58.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0085382",
+        "plex": {
+          "guid": "5d776834999c64001ec2f3c2",
+          "slug": "cujo"
+        },
+        "slug": "cujo-1983",
+        "tmdb": 10489,
+        "trakt": 5672
+      },
+      "year": 1983,
+      "title": "Cujo"
+    },
+    "rank": 52,
+    "id": 1173777170,
+    "listed_at": "2025-02-15T13:32:07.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt5027774",
+        "plex": {
+          "guid": "5d776bdc96b655001fe1e5af",
+          "slug": "three-billboards-outside-ebbing-missouri"
+        },
+        "slug": "three-billboards-outside-ebbing-missouri-2017",
+        "tmdb": 359940,
+        "trakt": 266092
+      },
+      "year": 2017,
+      "title": "Three Billboards Outside Ebbing, Missouri"
+    },
+    "rank": 49,
+    "id": 1173775658,
+    "listed_at": "2025-02-15T13:27:16.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt5727208",
+        "plex": {
+          "guid": "5d776d6451dd69001fe42408",
+          "slug": "uncut-gems"
+        },
+        "slug": "uncut-gems-2019",
+        "tmdb": 473033,
+        "trakt": 328678
+      },
+      "year": 2019,
+      "title": "Uncut Gems"
+    },
+    "rank": 47,
+    "id": 1173775050,
+    "listed_at": "2025-02-15T13:25:45.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1950186",
+        "plex": {
+          "guid": "5d776bdb96b655001fe1e493",
+          "slug": "ford-v-ferrari"
+        },
+        "slug": "ford-v-ferrari-2019",
+        "tmdb": 359724,
+        "trakt": 324762
+      },
+      "year": 2019,
+      "title": "Ford v Ferrari"
+    },
+    "rank": 45,
+    "id": 1173773573,
+    "listed_at": "2025-02-15T13:20:58.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0058567",
+        "plex": {
+          "guid": "5d7768562e80df001ebe1bc8",
+          "slug": "blood-and-black-lace"
+        },
+        "slug": "blood-and-black-lace-1964",
+        "tmdb": 28055,
+        "trakt": 17400
+      },
+      "year": 1964,
+      "title": "Blood and Black Lace"
+    },
+    "rank": 41,
+    "id": 1161560427,
+    "listed_at": "2025-01-24T18:00:16.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0051201",
+        "plex": {
+          "guid": "5d9f3571b0262f001f6eb2ee",
+          "slug": "witness-for-the-prosecution-1957"
+        },
+        "slug": "witness-for-the-prosecution-1957",
+        "tmdb": 37257,
+        "trakt": 23813
+      },
+      "year": 1957,
+      "title": "Witness for the Prosecution"
+    },
+    "rank": 36,
+    "id": 1161129697,
+    "listed_at": "2025-01-23T20:54:14.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0048261",
+        "plex": {
+          "guid": "5d7768416f4521001ea9e54f",
+          "slug": "kiss-me-deadly-1955"
+        },
+        "slug": "kiss-me-deadly-1955",
+        "tmdb": 18030,
+        "trakt": 11019
+      },
+      "year": 1955,
+      "title": "Kiss Me Deadly"
+    },
+    "rank": 35,
+    "id": 1161129341,
+    "listed_at": "2025-01-23T20:53:47.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0106697",
+        "plex": {
+          "guid": "5d776833a091de001f2e7b21",
+          "slug": "demolition-man"
+        },
+        "slug": "demolition-man-1993",
+        "tmdb": 9739,
+        "trakt": 5005
+      },
+      "year": 1993,
+      "title": "Demolition Man"
+    },
+    "rank": 33,
+    "id": 1161009095,
+    "listed_at": "2025-01-23T14:56:30.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0093978",
+        "plex": {
+          "guid": "5d77685c7e9a3c0020c71995",
+          "slug": "a-chinese-ghost-story"
+        },
+        "slug": "a-chinese-ghost-story-1987",
+        "tmdb": 30421,
+        "trakt": 19290
+      },
+      "year": 1987,
+      "title": "A Chinese Ghost Story"
+    },
+    "rank": 32,
+    "id": 1158451468,
+    "listed_at": "2025-01-18T22:18:21.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0087781",
+        "plex": {
+          "guid": "5d7768367e9a3c0020c6d10c",
+          "slug": "the-natural"
+        },
+        "slug": "the-natural-1984",
+        "tmdb": 11393,
+        "trakt": 6489
+      },
+      "year": 1984,
+      "title": "The Natural"
+    },
+    "rank": 31,
+    "id": 1155598429,
+    "listed_at": "2025-01-13T19:45:11.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0049730",
+        "plex": {
+          "guid": "5d77682ce6d55c002040b89e",
+          "slug": "the-searchers"
+        },
+        "slug": "the-searchers-1956",
+        "tmdb": 3114,
+        "trakt": 2088
+      },
+      "year": 1956,
+      "title": "The Searchers"
+    },
+    "rank": 30,
+    "id": 1155598354,
+    "listed_at": "2025-01-13T19:44:52.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt2649554",
+        "plex": {
+          "guid": "5d776a8af617c9002016e36b",
+          "slug": "midnight-special"
+        },
+        "slug": "midnight-special-2016",
+        "tmdb": 245703,
+        "trakt": 149556
+      },
+      "year": 2016,
+      "title": "Midnight Special"
+    },
+    "rank": 27,
+    "id": 1155598016,
+    "listed_at": "2025-01-13T19:44:02.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0095647",
+        "plex": {
+          "guid": "5d7768294de0ee001fcc9262",
+          "slug": "mississippi-burning"
+        },
+        "slug": "mississippi-burning-1988",
+        "tmdb": 1632,
+        "trakt": 1078
+      },
+      "year": 1988,
+      "title": "Mississippi Burning"
+    },
+    "rank": 22,
+    "id": 1155597722,
+    "listed_at": "2025-01-13T19:42:44.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0265666",
+        "plex": {
+          "guid": "5d776832103a2d001f567115",
+          "slug": "the-royal-tenenbaums"
+        },
+        "slug": "the-royal-tenenbaums-2001",
+        "tmdb": 9428,
+        "trakt": 4717
+      },
+      "year": 2001,
+      "title": "The Royal Tenenbaums"
+    },
+    "rank": 20,
+    "id": 1155597557,
+    "listed_at": "2025-01-13T19:42:05.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0362270",
+        "plex": {
+          "guid": "5d776825961905001eb90ccf",
+          "slug": "the-life-aquatic-with-steve-zissou"
+        },
+        "slug": "the-life-aquatic-with-steve-zissou-2004",
+        "tmdb": 421,
+        "trakt": 333
+      },
+      "year": 2004,
+      "title": "The Life Aquatic with Steve Zissou"
+    },
+    "rank": 19,
+    "id": 1155597446,
+    "listed_at": "2025-01-13T19:41:52.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0089885",
+        "plex": {
+          "guid": "5d77682aa091de001f2e683d",
+          "slug": "re-animator"
+        },
+        "slug": "re-animator-1985",
+        "tmdb": 1694,
+        "trakt": 1132
+      },
+      "year": 1985,
+      "title": "Re-Animator"
+    },
+    "rank": 14,
+    "id": 1155596781,
+    "listed_at": "2025-01-13T19:40:25.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0086984",
+        "plex": {
+          "guid": "5d776837eb5d26001f1e11dd",
+          "slug": "body-double"
+        },
+        "slug": "body-double-1984",
+        "tmdb": 11507,
+        "trakt": 6589
+      },
+      "year": 1984,
+      "title": "Body Double"
+    },
+    "rank": 12,
+    "id": 1155596461,
+    "listed_at": "2025-01-13T19:39:39.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0086879",
+        "plex": {
+          "guid": "5d776825151a60001f24a5d2",
+          "slug": "amadeus"
+        },
+        "slug": "amadeus-1984",
+        "tmdb": 279,
+        "trakt": 235
+      },
+      "year": 1984,
+      "title": "Amadeus"
+    },
+    "rank": 11,
+    "id": 1155596401,
+    "listed_at": "2025-01-13T19:39:01.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0311113",
+        "plex": {
+          "guid": "5d7768327e9a3c0020c6c10f",
+          "slug": "master-and-commander-the-far-side-of-the-world"
+        },
+        "slug": "master-and-commander-the-far-side-of-the-world-2003",
+        "tmdb": 8619,
+        "trakt": 4248
+      },
+      "year": 2003,
+      "title": "Master and Commander: The Far Side of the World"
+    },
+    "rank": 5,
+    "id": 1155595910,
+    "listed_at": "2025-01-13T19:37:19.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0102138",
+        "plex": {
+          "guid": "5d776828961905001eb915fb",
+          "slug": "jfk"
+        },
+        "slug": "jfk-1991",
+        "tmdb": 820,
+        "trakt": 663
+      },
+      "year": 1991,
+      "title": "JFK"
+    },
+    "rank": 4,
+    "id": 1155595291,
+    "listed_at": "2025-01-13T19:36:31.000Z",
+    "notes": null,
+    "my_rating": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0067411",
+        "plex": {
+          "guid": "5d77685885719b001f3a9a32",
+          "slug": "mccabe-and-mrs-miller"
+        },
+        "slug": "mccabe-mrs-miller-1971",
+        "tmdb": 29005,
+        "trakt": 18177
+      },
+      "year": 1971,
+      "title": "McCabe & Mrs. Miller"
+    },
+    "rank": 3,
+    "id": 1155595218,
+    "listed_at": "2025-01-13T19:36:24.000Z",
+    "notes": null,
+    "my_rating": null
+  }
+]
